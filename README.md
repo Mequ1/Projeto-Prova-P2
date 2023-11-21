@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="center">👨‍💼: Marco Oliveira<br>🆔 2040481912056<br><br>👨‍💼: Igor Santos de Macedo<br>🆔 <br><br>👨‍💼: Rafael Santana Silva<br>🆔 <br><br>👨‍💼: Vinicius Golçalves<br>🆔</p>
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ👨‍💼: Marco Oliveiraㅤㅤㅤ👨‍💼: Igor Santos de Macedoㅤㅤㅤ👨‍💼: Rafael Santana Silvaㅤㅤㅤ👨‍💼: Vinicius Golçalves<br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🆔 2040481912056ㅤㅤ 🆔 2040481912056ㅤㅤㅤㅤㅤㅤ 🆔 2040481912056ㅤㅤㅤㅤㅤ🆔 2040481912056</p>
 
 ###
