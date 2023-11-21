@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">◻️ main.dart: Este arquivo contém o ponto de entrada da aplicação Flutter e define a estrutura básica do aplicativo, incluindo a barra de navegação e o corpo da tela.</p>
+<p align="left">◼️ main.dart: Este arquivo contém o ponto de entrada da aplicação Flutter e define a estrutura básica do aplicativo, incluindo a barra de navegação e o corpo da tela.</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">◻️ MyApp: A classe MyApp é um widget Stateless que define a estrutura básica do aplicativo, incluindo a barra de navegação e a tela principal (CatPhotoScreen).<br><br>◻️ CatPhotoScreen: A classe CatPhotoScreen é um widget StatefulWidget que gerencia o estado da tela que exibe as fotos de gatos. Ele contém um botão para carregar cinco fotos de gatos da API e uma lista de imagens de gatos com um indicador de carregamento.</p>
+<p align="left">◼️ MyApp: A classe MyApp é um widget Stateless que define a estrutura básica do aplicativo, incluindo a barra de navegação e a tela principal (CatPhotoScreen).<br><br>◼️ CatPhotoScreen: A classe CatPhotoScreen é um widget StatefulWidget que gerencia o estado da tela que exibe as fotos de gatos. Ele contém um botão para carregar cinco fotos de gatos da API e uma lista de imagens de gatos com um indicador de carregamento.</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">◻️ http: O código utiliza a biblioteca http para fazer requisições HTTP à API do The Cat API. A função _getCatPhotos é responsável por realizar a requisição e processar os dados recebidos.<br><br>◻️ jsonDecode: A resposta da API é decodificada usando o jsonDecode para obter uma lista de URLs de imagens de gatos.</p>
+<p align="left">◼️ http: O código utiliza a biblioteca http para fazer requisições HTTP à API do The Cat API. A função _getCatPhotos é responsável por realizar a requisição e processar os dados recebidos.<br><br>◼️ jsonDecode: A resposta da API é decodificada usando o jsonDecode para obter uma lista de URLs de imagens de gatos.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">◻️ Um botão "Carregar 5 Fotos de Gatos" inicia a função _getCatPhotos para buscar e exibir novas imagens de gatos.<br><br>◻️ A lista de imagens de gatos é exibida em um ListView.builder dentro de um Expanded, permitindo a rolagem da lista.<br> <br>◻️ Um indicador de carregamento (CircularProgressIndicator) é exibido durante o carregamento de cada imagem.</p>
+<p align="left">◼️ Um botão "Carregar 5 Fotos de Gatos" inicia a função _getCatPhotos para buscar e exibir novas imagens de gatos.<br><br>◼️ A lista de imagens de gatos é exibida em um ListView.builder dentro de um Expanded, permitindo a rolagem da lista.<br> <br>◼️ Um indicador de carregamento (CircularProgressIndicator) é exibido durante o carregamento de cada imagem.</p>
 
 ###
 
